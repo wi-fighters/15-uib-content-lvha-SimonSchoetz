@@ -33,7 +33,12 @@ a:active {
   background-color: black;
 }
 /* Task 2 */
-
+button:hover {
+  background-color: rgb(50, 50, 50);
+}
+button:active {
+  color: white;
+}
 /* Task 3 */
 
 /* Task 4 */
