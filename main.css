@@ -40,5 +40,11 @@ button:active {
   color: white;
 }
 /* Task 3 */
+p::first-letter {
+  color: rgb(125, 125, 125);
+}
 
 /* Task 4 */
+h2 + p::first-line {
+  color: red;
+}
